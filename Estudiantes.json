@@ -1,0 +1,56 @@
+[
+    {
+        "Matricula": "MRID20820",
+        "Nombre": "Gustavo",
+        "ApellidoP": "Santos ",
+        "ApellidoM":"Marcial",
+        "Carrera": "Ingenieria en desarrollo en software",
+        "Cuatrimestre": "Septimo",
+        "Turno": "Semipresencial",
+        "Materias": "5"
+    },
+    
+    {
+        "Matricula": "AID06678",
+        "Nombre": "Mario",
+        "ApellidoP": "Hurberto",
+        "ApellidoM":"Flores",
+        "Carrera": "Ingenieria en desarrollo en software",
+        "Cuatrimestre": "Cuarto",
+        "Turno": "Presencial",
+        "Materias": "5"
+    },
+
+    {
+        "Matricula": "BIS12039",
+        "Nombre": "Karla",
+        "ApellidoP": "Diaz",
+        "ApellidoM":"Ortiz",
+        "Carrera": "Ingenieria en multimedia",
+        "Cuatrimestre": "Octavo",
+        "Turno": "Presencial",
+        "Materias": "5"
+    },
+
+    {
+        "Matricula": "KAE12036",
+        "Nombre": "Sofia",
+        "ApellidoP": "Martinez",
+        "ApellidoM":"Solis",
+        "Carrera": "Licenciatura en administración de empresas",
+        "Cuatrimestre": "Segundo",
+        "Turno": "Online",
+        "Materias": "5"
+    },
+
+    {
+        "Matricula": "PIV12340",
+        "Nombre": "Juan",
+        "ApellidoP": "Perez",
+        "ApellidoM":"Valles",
+        "Carrera": "Licenciatura en psicologia",
+        "Cuatrimestre": "Cuarto",
+        "Turno": "Ejecutiva",
+        "Materias": "5"
+    }
+]
