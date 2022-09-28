@@ -60,4 +60,6 @@ app.post('/Estudiantes', function(req, res) {
     ResizeObserver.json(Response);
 });
 
-app.listen(port);
+app.listen(port, () => {
+  console.log(`Example app listening on port ${port}`);
+})
